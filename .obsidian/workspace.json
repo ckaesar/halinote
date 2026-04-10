@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "方式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,8 +128,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
+                "useHierarchy": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,8 +184,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "960e7c1c4f2c5851",
+  "active": "af03802ac44c2338",
   "lastOpenFiles": [
+    "pic/Pasted image 20260410160352.png",
+    "pic/Pasted image 20260410160342.png",
     "README.md",
     "LICENSE",
     "pic/Pasted image 20260410153809.png",
