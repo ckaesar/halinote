@@ -1,0 +1,2 @@
+# halinote
+daily note
