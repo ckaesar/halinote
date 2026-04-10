@@ -4,24 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "983b30350d678e99",
-        "type": "tabs",
+        "id": "d1cff8285eb2c2ae",
+        "type": "split",
         "children": [
           {
-            "id": "960e7c1c4f2c5851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-04-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-10"
-            }
+            "id": "f822c2f75901f906",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f84312ddadb4a80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2026-04-10.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-04-10"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9b876fcb174c8b08",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "09f6b1085e11b974",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "D:\\Users\\chengkai022\\Documents\\obsidian-stocks\\halinote\\halinote",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "终端：管理员: C:\\Windows\\System32\\conhost.exe"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "方式",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f1a0cdee4ef32065",
@@ -94,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-10 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +165,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-04-10.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-10 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,17 +207,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-10 的大纲"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,21 +230,31 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "af03802ac44c2338",
+  "active": "09f6b1085e11b974",
   "lastOpenFiles": [
+    "2026-04-10.md",
+    "Anthropic官方文档内容.md",
+    "专题学习.md",
+    "专题/Anthropic learn.md",
+    "专题/Anthropic API文档.md",
+    "专题/Anthropic Courses.md",
+    "专题",
+    "欢迎.md",
+    "Clippings/AI Coding 融入后台研发全链路：现状、边界与讨论框架.md",
+    "README.md",
+    "Clippings/AI Coding 融入后台研发全链路：现状、边界与讨论框架 1.md",
+    "Clippings",
     "pic/Pasted image 20260410160352.png",
     "pic/Pasted image 20260410160342.png",
-    "README.md",
     "LICENSE",
     "pic/Pasted image 20260410153809.png",
     "pic",
     "Pasted image 20260410152009.png",
-    "2026-04-10.md",
     "2026-04.09.md",
-    "欢迎.md",
     "未命名.canvas",
     "创建链接.md"
   ]
