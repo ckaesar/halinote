@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cf21966b485ff40c",
+        "id": "f802ea07dd9ca320",
         "type": "split",
         "children": [
           {
@@ -17,22 +17,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "专题/AI日常使用记录.md",
+                    "file": "2026-04-13.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "AI日常使用记录"
+                  "title": "2026-04-13"
                 }
               }
             ]
           },
           {
-            "id": "e56ea1fc5fa7bb01",
+            "id": "0e70eff8bbe98575",
             "type": "tabs",
             "children": [
               {
-                "id": "e49e9fe22781789e",
+                "id": "4f9494cb91ebf84b",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -234,16 +234,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e49e9fe22781789e",
+  "active": "4f9494cb91ebf84b",
   "lastOpenFiles": [
-    "专题/AI日常使用记录.md",
+    "2026-04-13.md",
+    "().md",
+    "[品味.md",
+    "Anthropic官方文档内容.md",
+    "pic/Pasted image 20260413111135.png",
     "2026-04-10.md",
+    "测试01.md",
+    "测试02.md",
+    "专题/AI日常使用记录.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档-03.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档-02.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档 -01.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档.md",
     "Untitled.md",
-    "Anthropic官方文档内容.md",
     "专题学习.md",
     "专题/Anthropic learn.md",
     "专题/Anthropic API文档.md",
