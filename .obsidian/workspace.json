@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f802ea07dd9ca320",
+        "id": "cab87d15d60b2546",
         "type": "split",
         "children": [
           {
-            "id": "f822c2f75901f906",
+            "id": "38126c95c5767538",
             "type": "tabs",
             "children": [
               {
-                "id": "7f84312ddadb4a80",
+                "id": "7b8daefb814be861",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2026-04-13.md",
+                    "file": "2026-04-16.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2026-04-13"
+                  "title": "2026-04-16"
                 }
               }
             ]
           },
           {
-            "id": "0e70eff8bbe98575",
+            "id": "9c54dd08ac7b0fed",
             "type": "tabs",
             "children": [
               {
-                "id": "4f9494cb91ebf84b",
+                "id": "6a0718fe91b77e5c",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -127,7 +127,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,16 +148,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "2026-04-15.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2026-04-15 的反向链接列表"
             }
           },
           {
@@ -215,7 +217,8 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,33 +234,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "4f9494cb91ebf84b",
+  "active": "6a0718fe91b77e5c",
   "lastOpenFiles": [
+    "2026-04-16.md",
+    "2026-04-15.md",
+    "2026-04-14.md",
     "2026-04-13.md",
+    "2026-04-10.md",
+    "日记汇总.md",
+    "专题/AI日常使用记录.md",
+    "专题学习.md",
+    "欢迎.md",
+    "README.md",
+    "Untitled.md",
+    "专题/Anthropic Courses.md",
+    "专题/Anthropic API文档.md",
+    "Anthropic官方文档内容.md",
     "().md",
     "[品味.md",
-    "Anthropic官方文档内容.md",
     "pic/Pasted image 20260413111135.png",
-    "2026-04-10.md",
     "测试01.md",
     "测试02.md",
-    "专题/AI日常使用记录.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档-03.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档-02.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档 -01.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档.md",
-    "Untitled.md",
-    "专题学习.md",
     "专题/Anthropic learn.md",
-    "专题/Anthropic API文档.md",
-    "专题/Anthropic Courses.md",
     "专题",
-    "欢迎.md",
     "Clippings/AI Coding 融入后台研发全链路：现状、边界与讨论框架.md",
-    "README.md",
     "Clippings/AI Coding 融入后台研发全链路：现状、边界与讨论框架 1.md",
     "Clippings",
     "pic/Pasted image 20260410160352.png",
@@ -267,7 +275,6 @@
     "pic",
     "Pasted image 20260410152009.png",
     "2026-04.09.md",
-    "未命名.canvas",
-    "创建链接.md"
+    "未命名.canvas"
   ]
 }
