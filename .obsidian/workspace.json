@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f20353c816f5d494",
+        "id": "ff1f77856cd5a28a",
         "type": "tabs",
         "children": [
           {
-            "id": "09ff4cea49b11b22",
+            "id": "6410828e3ddec926",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "read/《ClaudeCode代码设计指南》.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "《ClaudeCode代码设计指南》"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f1a0cdee4ef32065",
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-04-15.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2026-04-15 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -195,21 +195,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09ff4cea49b11b22",
+  "active": "6410828e3ddec926",
   "lastOpenFiles": [
-    "2026-04-21.md",
-    "read.md",
-    "read/《ClaudeCode代码设计指南》.md",
-    "2026-04-17.md",
-    "read",
-    "2026-04-16.md",
-    "2026-04-10.md",
-    "2026-04-15.md",
+    "read/pic/Pasted image 20260422181532.png",
+    "read/pic/Pasted image 20260422181440.png",
+    "read/pic/Pasted image 20260422181403.png",
+    "read/pic/Pasted image 20260422181348.png",
+    "read/pic/Pasted image 20260422181337.png",
+    "read/pic/Pasted image 20260422181321.png",
+    "read/pic/Pasted image 20260422181256.png",
+    "read/pic/Pasted image 20260422181241.png",
+    "read/pic/Pasted image 20260422181227.png",
+    "read/pic/Pasted image 20260422181210.png",
+    "read/pic/Pasted image 20260422181208.png",
+    "read/pic",
+    "日记/2026-04-22.md",
+    "日记/日记汇总.md",
+    "日记/2026-04-10.md",
     "专题/AI日常使用记录.md",
+    "日记",
+    "read.md",
+    "日记/2026-04-17.md",
+    "2026-04-21.md",
+    "read/《ClaudeCode代码设计指南》.md",
+    "read",
+    "日记/2026-04-16.md",
+    "日记/2026-04-15.md",
     "专题学习.md",
-    "2026-04-14.md",
-    "2026-04-13.md",
-    "日记汇总.md",
+    "日记/2026-04-14.md",
+    "日记/2026-04-13.md",
     "欢迎.md",
     "README.md",
     "Untitled.md",
@@ -218,21 +232,14 @@
     "Anthropic官方文档内容.md",
     "().md",
     "[品味.md",
-    "pic/Pasted image 20260413111135.png",
     "测试01.md",
     "测试02.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档-03.md",
     "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档-02.md",
-    "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档 -01.md",
-    "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档.md",
     "专题",
     "Clippings",
-    "pic/Pasted image 20260410160352.png",
-    "pic/Pasted image 20260410160342.png",
     "LICENSE",
-    "pic/Pasted image 20260410153809.png",
     "pic",
-    "Pasted image 20260410152009.png",
     "未命名.canvas"
   ]
 }
