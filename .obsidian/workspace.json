@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff1f77856cd5a28a",
+        "id": "322fef3f61e36302",
         "type": "tabs",
         "children": [
           {
-            "id": "6410828e3ddec926",
+            "id": "17eff8f537842a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-04-24.md",
+                "file": "日记/2026-04-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-24"
+              "title": "2026-04-28"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f1a0cdee4ef32065",
@@ -194,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6410828e3ddec926",
+  "active": "17eff8f537842a3c",
   "lastOpenFiles": [
+    "日记/2026-04-28.md",
+    "日记/2026-04-27.md",
     "日记/日记汇总.md",
     "日记/2026-04-24.md",
     "read/《ClaudeCode代码设计指南》.md",
@@ -233,8 +236,6 @@
     "().md",
     "[品味.md",
     "测试01.md",
-    "测试02.md",
-    "Clippings/‬​‌⁢﻿⁡‬⁡⁤⁡​​​​​⁤⁢⁤﻿⁣﻿​‍​‌‬‬⁢‬‍⁡⁣﻿‌⁣​‍⁣⁤﻿⁤⁢‬⁢​‌《姚金刚认知随笔》 - 飞书云文档-03.md",
     "专题",
     "Clippings",
     "LICENSE",
