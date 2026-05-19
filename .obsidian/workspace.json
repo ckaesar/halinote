@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-04-28.md",
+                "file": "日记/2026-05-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-28"
+              "title": "2026-05-19"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,14 +198,29 @@
   },
   "active": "17eff8f537842a3c",
   "lastOpenFiles": [
-    "日记/2026-04-28.md",
-    "日记/2026-04-27.md",
-    "日记/日记汇总.md",
-    "日记/2026-04-24.md",
+    "日记/2026-04-10.md",
+    "日记/2026-05-19.md",
+    "日记/2026-05-18.md",
+    "日记/pic/Pasted image 20260518164345.png",
+    "日记/2026-05-13.md",
+    "未命名.md",
+    "日记/2026-05-09.md",
     "read/《ClaudeCode代码设计指南》.md",
+    "日记/2026-04-16.md",
+    "日记/2026-04-27.md",
+    "专题/AI日常使用记录.md",
+    "日记/2026-04-28.md",
+    "日记/日记汇总.md",
+    "日记/2026-04-15.md",
+    "日记/pic/Pasted image 20260509151055.png",
+    "日记/2026-04-30.md",
+    "日记/2026-04-29.md",
+    "日记/pic/Pasted image 20260430162430.png",
+    "日记/pic/Pasted image 20260430160035.png",
+    "日记/pic",
+    "日记/2026-04-24.md",
     "read/read.md",
     "日记/2026-04-22.md",
-    "专题/AI日常使用记录.md",
     "专题学习.md",
     "专题/Anthropic learn.md",
     "Anthropic官方文档内容.md",
@@ -215,27 +231,13 @@
     "read/pic/Pasted image 20260422181348.png",
     "read/pic/Pasted image 20260422181337.png",
     "read/pic/Pasted image 20260422181321.png",
-    "read/pic/Pasted image 20260422181256.png",
-    "read/pic/Pasted image 20260422181241.png",
-    "read/pic/Pasted image 20260422181227.png",
-    "read/pic/Pasted image 20260422181210.png",
     "read/pic",
-    "日记/2026-04-10.md",
     "日记",
     "2026-04-21.md",
     "read",
-    "日记/2026-04-16.md",
-    "日记/2026-04-15.md",
     "日记/2026-04-14.md",
     "日记/2026-04-13.md",
     "欢迎.md",
-    "README.md",
-    "Untitled.md",
-    "专题/Anthropic Courses.md",
-    "专题/Anthropic API文档.md",
-    "().md",
-    "[品味.md",
-    "测试01.md",
     "专题",
     "Clippings",
     "LICENSE",
