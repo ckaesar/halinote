@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "267320f3baceff56",
+        "id": "a9ebce2ff49602b5",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e1fd231891e705",
+            "id": "6e682daa0cdbabbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "日记/2026-10-21.md",
+                "bFile": "日记/2026-10-21.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-10-21  (Working Tree)"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "五星",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f10542bd221cc5c5",
@@ -185,6 +190,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "terminal:Open terminal": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -195,8 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3e1fd231891e705",
+  "active": "6e682daa0cdbabbf",
   "lastOpenFiles": [
+    "日记/2026-10-30.md",
+    "日记/2026-10-23.md",
+    "日记/2026-10-21.md",
+    "日记/2026-10-16.md",
+    "日记/2026-06-23.md",
     "欢迎.md",
     "日记/pic/Pasted image 20260623113147.png",
     "日记/pic/Pasted image 20260623111823.png",
@@ -225,15 +237,10 @@
     "日记/2026-07-03.md",
     "日记/2026-07-02.md",
     "日记/2026-06-24.md",
-    "日记/2026-06-23.md",
     "日记/2026-06-22.md",
     "日记/2026-06-18.md",
     "日记/2026-06-16.md",
     "日记/2026-06-15.md",
-    "日记/2026-06-11.md",
-    "日记/2026-06-09.md",
-    "日记/2026-06-05.md",
-    "日记/2026-06-01.md",
     "日记",
     "博客",
     "专题",
