@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9ebce2ff49602b5",
+        "id": "e7bde6da98bfbe12",
         "type": "tabs",
         "children": [
           {
-            "id": "6e682daa0cdbabbf",
+            "id": "1436756550710636",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "日记/2026-10-21.md",
-                "bFile": "日记/2026-10-21.md",
-                "aRef": ""
+                "file": "日记/2026-10-30.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-10-21  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-10-30"
             }
           }
         ]
@@ -202,9 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e682daa0cdbabbf",
+  "active": "1436756550710636",
   "lastOpenFiles": [
+    "日记/日记汇总.md",
     "日记/2026-10-30.md",
+    "日记/2026-07-06.md",
+    "日记/2026-05-27.md",
+    "日记/2026-04-24.md",
     "日记/2026-10-23.md",
     "日记/2026-10-21.md",
     "日记/2026-10-16.md",
@@ -220,7 +224,6 @@
     "日记/pic/Pasted image 20260616112602.png",
     "日记/pic/Pasted image 20260616111248.png",
     "日记/pic/Pasted image 20260616111016.png",
-    "日记/日记汇总.md",
     "日记/pic",
     "日记/2026-10-10.md",
     "日记/2026-09-20.md",
@@ -233,14 +236,11 @@
     "日记/2026-07-13.md",
     "日记/2026-07-10.md",
     "日记/2026-07-07.md",
-    "日记/2026-07-06.md",
     "日记/2026-07-03.md",
     "日记/2026-07-02.md",
     "日记/2026-06-24.md",
     "日记/2026-06-22.md",
     "日记/2026-06-18.md",
-    "日记/2026-06-16.md",
-    "日记/2026-06-15.md",
     "日记",
     "博客",
     "专题",
