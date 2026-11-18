@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7bde6da98bfbe12",
+        "id": "e9b5c234e6fbfdbd",
         "type": "tabs",
         "children": [
           {
-            "id": "1436756550710636",
+            "id": "2cc9cc20b44f1806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2026-10-30.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-10-30"
+              "title": "新标签页"
             }
           }
         ]
@@ -83,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f10542bd221cc5c5",
@@ -100,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -180,6 +175,30 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c90c73f791fc11e0",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1794994550418-9f6escm",
+                      "conversationId": "conv-1794994574608-f5keo11np"
+                    }
+                  ],
+                  "activeTabId": "tab-1794994550418-9f6escm",
+                  "expandedTitleTabIds": [
+                    "tab-1794994550418-9f6escm"
+                  ]
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
@@ -199,54 +218,57 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "1436756550710636",
+  "active": "c90c73f791fc11e0",
   "lastOpenFiles": [
-    "日记/日记汇总.md",
-    "日记/2026-10-30.md",
-    "日记/2026-07-06.md",
-    "日记/2026-05-27.md",
-    "日记/2026-04-24.md",
-    "日记/2026-10-23.md",
-    "日记/2026-10-21.md",
-    "日记/2026-10-16.md",
-    "日记/2026-06-23.md",
-    "欢迎.md",
-    "日记/pic/Pasted image 20260623113147.png",
-    "日记/pic/Pasted image 20260623111823.png",
-    "日记/pic/Pasted image 20260623110905.png",
-    "日记/pic/Pasted image 20260623105107.png",
-    "日记/pic/Pasted image 20260623104258.png",
-    "日记/pic/Pasted image 20260616113620.png",
-    "日记/pic/Pasted image 20260616113502.png",
-    "日记/pic/Pasted image 20260616112602.png",
-    "日记/pic/Pasted image 20260616111248.png",
-    "日记/pic/Pasted image 20260616111016.png",
-    "日记/pic",
-    "日记/2026-10-10.md",
-    "日记/2026-09-20.md",
-    "日记/2026-09-11.md",
-    "日记/2026-09-04.md",
-    "日记/2026-08-28.md",
-    "日记/2026-08-14.md",
-    "日记/2026-08-21.md",
-    "日记/2026-08-10.md",
-    "日记/2026-07-13.md",
-    "日记/2026-07-10.md",
-    "日记/2026-07-07.md",
-    "日记/2026-07-03.md",
-    "日记/2026-07-02.md",
-    "日记/2026-06-24.md",
-    "日记/2026-06-22.md",
-    "日记/2026-06-18.md",
-    "日记",
-    "博客",
-    "专题",
-    "read/pic",
-    "read",
-    "pic",
-    "LICENSE"
+    "50-creative/daily-notes/2026-11-18.md",
+    "30-assets/templates/日记模板.md",
+    "50-creative/daily-notes/2026-07-13.md",
+    "50-creative/daily-notes/2026-08-10.md",
+    "30-assets/templates",
+    "CLAUDE.md",
+    "50-creative/daily-notes/2026-04-10.md",
+    "30-assets/img/Pasted image 20260410160352.png",
+    "30-assets/img/Pasted image 20260410160342.png",
+    "20-knowledge/references/Obsidian教程.md",
+    "20-knowledge/references/Anthropic官方文档内容.md",
+    "20-knowledge/references/Anthropic learn.md",
+    "20-knowledge/references/Anthropic Courses.md",
+    "20-knowledge/references/Anthropic API文档.md",
+    "20-knowledge/references/AI日常使用记录.md",
+    "20-knowledge/references/专题学习.md",
+    "20-knowledge/reading-notes/read.md",
+    "20-knowledge/reading-notes/摘录.md",
+    "20-knowledge/reading-notes/《ClaudeCode代码设计指南》.md",
+    "20-knowledge/articles/Lofi'Log 低保真日志.md",
+    "20-knowledge/articles/博客汇总.md",
+    "workspace/apply-frontmatter.mjs",
+    "50-creative/daily-notes",
+    "40-archive/2026",
+    "30-assets/html",
+    "30-assets/diagrams",
+    "30-assets/meeting",
+    "20-knowledge/reading-notes",
+    "20-knowledge/references",
+    "20-knowledge/articles",
+    "CLAUDE.md.md",
+    "00-inbox/01-Obsidian + AI 知识库使用指南.md",
+    "Clippings/01-Obsidian + AI 知识库使用指南.md",
+    "Clippings/01-Obsidian + AI 知识库使用指南 1.md",
+    "50-creative/daily-notes/2026-11-13.md",
+    "file:/Users/chengkai/.agents/skills/code-review-gate-zh/references/rules/security.md",
+    "file:/Users/chengkai/.agents/skills/code-review-gate-zh/references/rules/baseline-java.md",
+    "file:/Users/chengkai/.agents/skills/code-review-gate-zh/references/output-schema.md",
+    "30-assets/img/Pasted image 20260623113147.png",
+    "30-assets/img/Pasted image 20260623111823.png",
+    "30-assets/img/Pasted image 20260623110905.png",
+    "30-assets/img/Pasted image 20260623105107.png",
+    "30-assets/img/Pasted image 20260623104258.png",
+    "30-assets/img/Pasted image 20260616113620.png",
+    "30-assets/img/Pasted image 20260616113502.png",
+    "30-assets/img/Pasted image 20260616112602.png"
   ]
 }

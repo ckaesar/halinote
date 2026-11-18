@@ -1,5 +1,8 @@
 [
   "dataview",
   "terminal",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tasks-plugin",
+  "advanced-canvas",
+  "realclaudian"
 ]

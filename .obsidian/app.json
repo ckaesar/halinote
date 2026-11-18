@@ -1,4 +1,8 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "./pic"
+  "attachmentFolderPath": "30-assets/img",
+  "userIgnoreFilters": [
+    "workspace/",
+    "30-assets/templates/"
+  ]
 }
