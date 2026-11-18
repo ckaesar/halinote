@@ -1,0 +1,11 @@
+# 配置与缓存
+.obsidian/
+.claudian/
+workspace/
+graphify-out/
+CLAUDE.md
+
+# 资产（截图、模板不参与知识图谱）
+30-assets/img/
+30-assets/templates/
+LICENSE

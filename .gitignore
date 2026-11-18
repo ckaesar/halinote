@@ -211,3 +211,8 @@ workspace/
 
 # Obsidian local trash
 .trash/
+
+# Graphify generated cache and dated backups (keep graph.json/report/html)
+graphify-out/cache/
+graphify-out/[0-9]*/
+graphify-out/.graphify_build.json

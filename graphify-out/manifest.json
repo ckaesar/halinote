@@ -1,0 +1,362 @@
+{
+  "20-knowledge/articles/Lofi'Log \u4f4e\u4fdd\u771f\u65e5\u5fd7.md": {
+    "mtime": 1794996651.3963003,
+    "seen": 1794997885.1452749,
+    "ast_hash": "1aba681221aacfa110c7784ffa8cbb8f",
+    "semantic_hash": "1aba681221aacfa110c7784ffa8cbb8f"
+  },
+  "20-knowledge/reading-notes/\u300aClaudeCode\u4ee3\u7801\u8bbe\u8ba1\u6307\u5357\u300b.md": {
+    "mtime": 1794996651.3943377,
+    "seen": 1794997885.145278,
+    "ast_hash": "43a41c3c1a4060d6b4eaebc93846d477",
+    "semantic_hash": "43a41c3c1a4060d6b4eaebc93846d477"
+  },
+  "20-knowledge/reading-notes/\u6458\u5f55.md": {
+    "mtime": 1794996651.3945196,
+    "seen": 1794997885.14528,
+    "ast_hash": "3a96ad7e06a30d486e807a1185fd4e30",
+    "semantic_hash": "3a96ad7e06a30d486e807a1185fd4e30"
+  },
+  "20-knowledge/references/AI\u65e5\u5e38\u4f7f\u7528\u8bb0\u5f55.md": {
+    "mtime": 1794996651.39483,
+    "seen": 1794997885.145281,
+    "ast_hash": "2fd53c121487809f53f107886235753d",
+    "semantic_hash": "2fd53c121487809f53f107886235753d"
+  },
+  "20-knowledge/references/Anthropic API\u6587\u6863.md": {
+    "mtime": 1794996651.3949003,
+    "seen": 1794997885.145282,
+    "ast_hash": "9d331491b134615de32ed3fa465db196",
+    "semantic_hash": "9d331491b134615de32ed3fa465db196"
+  },
+  "20-knowledge/references/Anthropic Courses.md": {
+    "mtime": 1794996651.3949916,
+    "seen": 1794997885.145282,
+    "ast_hash": "7817c4a4e758efb338daf224a40f8d66",
+    "semantic_hash": "7817c4a4e758efb338daf224a40f8d66"
+  },
+  "20-knowledge/references/Anthropic learn.md": {
+    "mtime": 1794996651.395082,
+    "seen": 1794997885.145283,
+    "ast_hash": "059bdb5ed1cc061da1bbe923c33256d9",
+    "semantic_hash": "059bdb5ed1cc061da1bbe923c33256d9"
+  },
+  "20-knowledge/references/Anthropic\u5b98\u65b9\u6587\u6863\u5185\u5bb9.md": {
+    "mtime": 1794996651.3952265,
+    "seen": 1794997885.1452842,
+    "ast_hash": "0331f52bb2ae36eacb052a2ca3c03210",
+    "semantic_hash": "0331f52bb2ae36eacb052a2ca3c03210"
+  },
+  "20-knowledge/references/\u4e13\u9898\u5b66\u4e60.md": {
+    "mtime": 1794996651.395662,
+    "seen": 1794997885.1452842,
+    "ast_hash": "ee35093861cdfa046afaa616eb7c4a5c",
+    "semantic_hash": "ee35093861cdfa046afaa616eb7c4a5c"
+  },
+  "50-creative/daily-notes/2026-04-10.md": {
+    "mtime": 1794996651.3804507,
+    "seen": 1794997885.1452851,
+    "ast_hash": "3480b41902fd18dc16672aed19ae0115",
+    "semantic_hash": "3480b41902fd18dc16672aed19ae0115"
+  },
+  "50-creative/daily-notes/2026-04-13.md": {
+    "mtime": 1794996651.3808465,
+    "seen": 1794997885.1452851,
+    "ast_hash": "fc06938a0571408ca95a48667be6ef0d",
+    "semantic_hash": "fc06938a0571408ca95a48667be6ef0d"
+  },
+  "50-creative/daily-notes/2026-04-14.md": {
+    "mtime": 1794996651.3809788,
+    "seen": 1794997885.1452858,
+    "ast_hash": "680e1e6aa29e936e3e17fdb0474c7c00",
+    "semantic_hash": "680e1e6aa29e936e3e17fdb0474c7c00"
+  },
+  "50-creative/daily-notes/2026-04-15.md": {
+    "mtime": 1794996651.3811166,
+    "seen": 1794997885.1452858,
+    "ast_hash": "9a0218e56cf4d99f83ee298c1c8d357b",
+    "semantic_hash": "9a0218e56cf4d99f83ee298c1c8d357b"
+  },
+  "50-creative/daily-notes/2026-04-16.md": {
+    "mtime": 1794996651.3814378,
+    "seen": 1794997885.1452868,
+    "ast_hash": "28760185c72ad306bcb5f4f71a186c28",
+    "semantic_hash": "28760185c72ad306bcb5f4f71a186c28"
+  },
+  "50-creative/daily-notes/2026-04-17.md": {
+    "mtime": 1794996651.3816967,
+    "seen": 1794997885.145288,
+    "ast_hash": "c582c040b479852b98e78e4f58a209ea",
+    "semantic_hash": "c582c040b479852b98e78e4f58a209ea"
+  },
+  "50-creative/daily-notes/2026-04-24.md": {
+    "mtime": 1794996651.3817892,
+    "seen": 1794997885.145288,
+    "ast_hash": "48e21de3ac50eeb4792feb1188a83275",
+    "semantic_hash": "48e21de3ac50eeb4792feb1188a83275"
+  },
+  "50-creative/daily-notes/2026-04-27.md": {
+    "mtime": 1794996651.382188,
+    "seen": 1794997885.145289,
+    "ast_hash": "0f134654ffbdd4dc8fcccece0d27d055",
+    "semantic_hash": "0f134654ffbdd4dc8fcccece0d27d055"
+  },
+  "50-creative/daily-notes/2026-04-28.md": {
+    "mtime": 1794996651.3824446,
+    "seen": 1794997885.145289,
+    "ast_hash": "8a93da71a24fc0f3e4671997e3d14226",
+    "semantic_hash": "8a93da71a24fc0f3e4671997e3d14226"
+  },
+  "50-creative/daily-notes/2026-04-29.md": {
+    "mtime": 1794996651.382615,
+    "seen": 1794997885.14529,
+    "ast_hash": "a98904f5bacff9f734ebe7e15af430f2",
+    "semantic_hash": "a98904f5bacff9f734ebe7e15af430f2"
+  },
+  "50-creative/daily-notes/2026-04-30.md": {
+    "mtime": 1794996651.3827186,
+    "seen": 1794997885.14529,
+    "ast_hash": "a93c777d0694f0a8e8c679c7030a7d37",
+    "semantic_hash": "a93c777d0694f0a8e8c679c7030a7d37"
+  },
+  "50-creative/daily-notes/2026-05-09.md": {
+    "mtime": 1794996651.3829036,
+    "seen": 1794997885.145291,
+    "ast_hash": "a994df697602bb418cda0f374c2647b8",
+    "semantic_hash": "a994df697602bb418cda0f374c2647b8"
+  },
+  "50-creative/daily-notes/2026-05-13.md": {
+    "mtime": 1794996651.3830066,
+    "seen": 1794997885.145291,
+    "ast_hash": "48b55d0425924c5e3b40d382bbe363d9",
+    "semantic_hash": "48b55d0425924c5e3b40d382bbe363d9"
+  },
+  "50-creative/daily-notes/2026-05-18.md": {
+    "mtime": 1794996651.3831394,
+    "seen": 1794997885.145292,
+    "ast_hash": "633e61c8e54192fa89308309a9d8e216",
+    "semantic_hash": "633e61c8e54192fa89308309a9d8e216"
+  },
+  "50-creative/daily-notes/2026-05-19.md": {
+    "mtime": 1794996651.383268,
+    "seen": 1794997885.145293,
+    "ast_hash": "4f77eb5ad094b9a1c3d75ba7c17775b6",
+    "semantic_hash": "4f77eb5ad094b9a1c3d75ba7c17775b6"
+  },
+  "50-creative/daily-notes/2026-05-22.md": {
+    "mtime": 1794996651.3833725,
+    "seen": 1794997885.145293,
+    "ast_hash": "d039a51a232c19b6ca5f31926aa471c9",
+    "semantic_hash": "d039a51a232c19b6ca5f31926aa471c9"
+  },
+  "50-creative/daily-notes/2026-05-25.md": {
+    "mtime": 1794996651.3835192,
+    "seen": 1794997885.1452942,
+    "ast_hash": "a032ccebe06079fa60262390685f85aa",
+    "semantic_hash": "a032ccebe06079fa60262390685f85aa"
+  },
+  "50-creative/daily-notes/2026-05-27.md": {
+    "mtime": 1794996651.3836553,
+    "seen": 1794997885.1452942,
+    "ast_hash": "662f9bf18d9dc78f7c38fce906d86c65",
+    "semantic_hash": "662f9bf18d9dc78f7c38fce906d86c65"
+  },
+  "50-creative/daily-notes/2026-06-01.md": {
+    "mtime": 1794996651.3838394,
+    "seen": 1794997885.1452951,
+    "ast_hash": "389345bc3a9b755b6743cf42d6e07de2",
+    "semantic_hash": "389345bc3a9b755b6743cf42d6e07de2"
+  },
+  "50-creative/daily-notes/2026-06-05.md": {
+    "mtime": 1794996651.3839378,
+    "seen": 1794997885.1452951,
+    "ast_hash": "6e2a2042962c4586832a415e22434845",
+    "semantic_hash": "6e2a2042962c4586832a415e22434845"
+  },
+  "50-creative/daily-notes/2026-06-09.md": {
+    "mtime": 1794996651.3841121,
+    "seen": 1794997885.1452959,
+    "ast_hash": "ed07ca024ad42fbc0383634b08671514",
+    "semantic_hash": "ed07ca024ad42fbc0383634b08671514"
+  },
+  "50-creative/daily-notes/2026-06-11.md": {
+    "mtime": 1794996651.3842876,
+    "seen": 1794997885.1452959,
+    "ast_hash": "b992fe23f29253141116d25b9a03021c",
+    "semantic_hash": "b992fe23f29253141116d25b9a03021c"
+  },
+  "50-creative/daily-notes/2026-06-15.md": {
+    "mtime": 1794996651.3845778,
+    "seen": 1794997885.1452968,
+    "ast_hash": "1f270fda0bcef71ad4408caff98421a7",
+    "semantic_hash": "1f270fda0bcef71ad4408caff98421a7"
+  },
+  "50-creative/daily-notes/2026-06-16.md": {
+    "mtime": 1794996651.3847704,
+    "seen": 1794997885.1452968,
+    "ast_hash": "1f6c901d32de1b914082cb1d73d59b14",
+    "semantic_hash": "1f6c901d32de1b914082cb1d73d59b14"
+  },
+  "50-creative/daily-notes/2026-06-18.md": {
+    "mtime": 1794996651.3849037,
+    "seen": 1794997885.145298,
+    "ast_hash": "20e7bb4367d7ed15ece447aa444b0ddf",
+    "semantic_hash": "20e7bb4367d7ed15ece447aa444b0ddf"
+  },
+  "50-creative/daily-notes/2026-06-22.md": {
+    "mtime": 1794996651.385081,
+    "seen": 1794997885.145298,
+    "ast_hash": "e0bb87b1a471f3742a3b484a0faff3a3",
+    "semantic_hash": "e0bb87b1a471f3742a3b484a0faff3a3"
+  },
+  "50-creative/daily-notes/2026-06-23.md": {
+    "mtime": 1794996651.385257,
+    "seen": 1794997885.145299,
+    "ast_hash": "bb889dac3e4964cc24fb400116f846cf",
+    "semantic_hash": "bb889dac3e4964cc24fb400116f846cf"
+  },
+  "50-creative/daily-notes/2026-06-24.md": {
+    "mtime": 1794996651.3854373,
+    "seen": 1794997885.145299,
+    "ast_hash": "83a9e0c5d6296007cd113a7052f5c17f",
+    "semantic_hash": "83a9e0c5d6296007cd113a7052f5c17f"
+  },
+  "50-creative/daily-notes/2026-07-02.md": {
+    "mtime": 1794996651.3855882,
+    "seen": 1794997885.1453,
+    "ast_hash": "8cbd0785dc1f8026430531b304ef8121",
+    "semantic_hash": "8cbd0785dc1f8026430531b304ef8121"
+  },
+  "50-creative/daily-notes/2026-07-03.md": {
+    "mtime": 1794996651.385799,
+    "seen": 1794997885.1453,
+    "ast_hash": "4e453e86f136ce1573782cf99970e1fe",
+    "semantic_hash": "4e453e86f136ce1573782cf99970e1fe"
+  },
+  "50-creative/daily-notes/2026-07-06.md": {
+    "mtime": 1794996651.3860831,
+    "seen": 1794997885.145301,
+    "ast_hash": "d50ea518c5fb4e1e2a9e7a658588d8cd",
+    "semantic_hash": "d50ea518c5fb4e1e2a9e7a658588d8cd"
+  },
+  "50-creative/daily-notes/2026-07-07.md": {
+    "mtime": 1794996651.3862257,
+    "seen": 1794997885.145301,
+    "ast_hash": "72e873eff19e55e7ebfcf956eda3b842",
+    "semantic_hash": "72e873eff19e55e7ebfcf956eda3b842"
+  },
+  "50-creative/daily-notes/2026-07-10.md": {
+    "mtime": 1794996651.386373,
+    "seen": 1794997885.145302,
+    "ast_hash": "4c21506a4bb6acf9a391c7850fc9e485",
+    "semantic_hash": "4c21506a4bb6acf9a391c7850fc9e485"
+  },
+  "50-creative/daily-notes/2026-07-13.md": {
+    "mtime": 1794996651.3865004,
+    "seen": 1794997885.145302,
+    "ast_hash": "4bd237b9a4847ba8a0a9d32d25025046",
+    "semantic_hash": "4bd237b9a4847ba8a0a9d32d25025046"
+  },
+  "50-creative/daily-notes/2026-08-10.md": {
+    "mtime": 1794996651.3866258,
+    "seen": 1794997885.145303,
+    "ast_hash": "ec45014b4d494b56f87da690d44bc291",
+    "semantic_hash": "ec45014b4d494b56f87da690d44bc291"
+  },
+  "50-creative/daily-notes/2026-08-14.md": {
+    "mtime": 1794996651.3871593,
+    "seen": 1794997885.145304,
+    "ast_hash": "5a4f52b9c50b6831d4d93d8d5a830d67",
+    "semantic_hash": "5a4f52b9c50b6831d4d93d8d5a830d67"
+  },
+  "50-creative/daily-notes/2026-08-21.md": {
+    "mtime": 1794996651.388039,
+    "seen": 1794997885.145304,
+    "ast_hash": "6e70c341a5c0f924e5824c90c81bbed4",
+    "semantic_hash": "6e70c341a5c0f924e5824c90c81bbed4"
+  },
+  "50-creative/daily-notes/2026-08-28.md": {
+    "mtime": 1794996651.3882947,
+    "seen": 1794997885.1453052,
+    "ast_hash": "34c6d9e6707e42268afd68d2c64e816e",
+    "semantic_hash": "34c6d9e6707e42268afd68d2c64e816e"
+  },
+  "50-creative/daily-notes/2026-09-04.md": {
+    "mtime": 1794996651.3887072,
+    "seen": 1794997885.1453052,
+    "ast_hash": "cf8b4c7d31c766136eb6ecd04663d5d1",
+    "semantic_hash": "cf8b4c7d31c766136eb6ecd04663d5d1"
+  },
+  "50-creative/daily-notes/2026-09-11.md": {
+    "mtime": 1794996651.3888705,
+    "seen": 1794997885.145306,
+    "ast_hash": "77b19fe0b91f6570d5d59e2f0a01964e",
+    "semantic_hash": "77b19fe0b91f6570d5d59e2f0a01964e"
+  },
+  "50-creative/daily-notes/2026-09-20.md": {
+    "mtime": 1794996651.38964,
+    "seen": 1794997885.1453068,
+    "ast_hash": "cc4d06cd2244f09e89a8fb3de2931f69",
+    "semantic_hash": "cc4d06cd2244f09e89a8fb3de2931f69"
+  },
+  "50-creative/daily-notes/2026-10-10.md": {
+    "mtime": 1794996651.3898382,
+    "seen": 1794997885.1453068,
+    "ast_hash": "d7903fe68cf35f6ceb73e7bf385487a3",
+    "semantic_hash": "d7903fe68cf35f6ceb73e7bf385487a3"
+  },
+  "50-creative/daily-notes/2026-10-16.md": {
+    "mtime": 1794996651.390159,
+    "seen": 1794997885.145308,
+    "ast_hash": "9048b6e24a409d2a4a4561c398abfcaf",
+    "semantic_hash": "9048b6e24a409d2a4a4561c398abfcaf"
+  },
+  "50-creative/daily-notes/2026-10-21.md": {
+    "mtime": 1794996651.3921084,
+    "seen": 1794997885.145308,
+    "ast_hash": "d0cec22978931fe4bfb4c088c5e446d5",
+    "semantic_hash": "d0cec22978931fe4bfb4c088c5e446d5"
+  },
+  "50-creative/daily-notes/2026-10-23.md": {
+    "mtime": 1794996651.3925278,
+    "seen": 1794997885.145308,
+    "ast_hash": "9b33c4ee4f57b123b8170c3fb5f3bbf8",
+    "semantic_hash": "9b33c4ee4f57b123b8170c3fb5f3bbf8"
+  },
+  "50-creative/daily-notes/2026-10-30.md": {
+    "mtime": 1794996651.3928523,
+    "seen": 1794997885.145309,
+    "ast_hash": "01010387af0887ab236753696bd6441e",
+    "semantic_hash": "01010387af0887ab236753696bd6441e"
+  },
+  "50-creative/daily-notes/2026-11-09.md": {
+    "mtime": 1794996651.3931568,
+    "seen": 1794997885.145309,
+    "ast_hash": "1ed76ce5a989373aefa5c1fdee88a4a1",
+    "semantic_hash": "1ed76ce5a989373aefa5c1fdee88a4a1"
+  },
+  "50-creative/daily-notes/2026-11-13.md": {
+    "mtime": 1794996651.393644,
+    "seen": 1794997885.14531,
+    "ast_hash": "7523c7a1925c04c0de7709c007362d91",
+    "semantic_hash": "7523c7a1925c04c0de7709c007362d91"
+  },
+  "50-creative/daily-notes/2026-11-18.md": {
+    "mtime": 1794997089.5855982,
+    "seen": 1794997885.14531,
+    "ast_hash": "235ecf66e84d6f3e0189b95544df402c",
+    "semantic_hash": "235ecf66e84d6f3e0189b95544df402c"
+  },
+  "50-creative/daily-notes/\u65e5\u8bb0\u6c47\u603b.md": {
+    "mtime": 1794996651.3939764,
+    "seen": 1794997885.1453109,
+    "ast_hash": "b00ada21339d710f3038f5267fee5c16",
+    "semantic_hash": "b00ada21339d710f3038f5267fee5c16"
+  },
+  "Obsidian\u6559\u7a0b.md": {
+    "mtime": 1794996651.3954785,
+    "seen": 1794997885.145312,
+    "ast_hash": "704acbbbc00106b58ca6978f39e66660",
+    "semantic_hash": "704acbbbc00106b58ca6978f39e66660"
+  }
+}

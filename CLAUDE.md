@@ -89,6 +89,23 @@ tags: [daily-note]
 6. **删除**：一律走 Obsidian 回收站，不永久删除。
 7. **移动/重命名**：通过 Obsidian CLI（`obsidian vault="halinote" move ...`）或 `app.fileManager.renameFile`，确保链接同步更新。
 
+## 6. Graphify 知识图谱
+
+图谱文件位于 `graphify-out/graph.json`，用于语义检索与笔记关联；它与目录结构互补，不替代目录。
+
+- **建图 / 增量更新**：`graphify extract . --backend claude-cli`
+- **重聚类与刷新报告**：`graphify cluster-only . --backend claude-cli`
+- **检索**：`graphify query "问题"`、`graphify path "A" "B" --undirected`、`graphify explain "节点"`
+- **导航**：`graphify god-nodes` 查看核心节点；`graphify export obsidian --dir 30-assets/diagrams/graph` 可导出画布
+
+使用规则：
+
+1. 新笔记归位或新建知识笔记前，先查图谱找相关笔记与合适目录。
+2. 批量导入或大改后执行一次增量更新；未更新前的新笔记不在图中。
+3. 图谱结果只作候选，引用内容必须回原文核对，不能直接当作事实。
+4. 建图消耗 token，优先增量更新，避免无意义全量重建。
+5. `graphify-out/` 是生成物，不手工编辑；`graphify-out/cache/` 与日期备份不纳入版本控制。
+
 ## 参考信息
 
 - 规则来源：[Obsidian 知识库目录结构设计](https://vault.xindoo.xyz/s/14qfgKA6SgodQcVRTFfwu0vBvDXjJljG/02-Obsidian%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1)
