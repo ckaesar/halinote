@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c72f8009504ff7e9",
+        "id": "ea193063bdffee05",
         "type": "tabs",
         "children": [
           {
-            "id": "d88ebfa0c36465a4",
+            "id": "9a1dbec40f592d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
+            }
+          },
+          {
+            "id": "f97e5b4624606001",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "homePage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#daily-note",
+                "query": "tag:moc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -226,15 +241,32 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c90c73f791fc11e0",
+  "active": "f97e5b4624606001",
   "lastOpenFiles": [
+    "标签审计.md",
+    "homePage.md",
+    "50-creative/daily-notes/2026-04-13.md",
+    "50-creative/daily-notes/2026-07-07.md",
+    "50-creative/daily-notes/2026-06-16.md",
+    "50-creative/daily-notes/2026-04-29.md",
+    "workspace/normalize-inline-tags.mjs",
+    "30-assets/templates/日记模板.md",
+    "CLAUDE.md",
+    "50-creative/daily-notes/2026-06-11.md",
+    "50-creative/daily-notes/2026-05-27.md",
+    "50-creative/daily-notes/2026-04-28.md",
+    "50-creative/daily-notes/2026-04-16.md",
+    "50-creative/daily-notes/2026-04-14.md",
+    "workspace/tag-migrate-minimal.mjs",
+    "workspace/tag-migration-before-cleanup.patch",
+    "10-work/任务看板.md",
+    "50-creative/daily-notes/2026-05-25.md",
+    "50-creative/daily-notes/2026-11-13.md",
+    "20-knowledge/articles/阮一峰周刊汇总.md",
     "Obsidian教程.md",
     "50-creative/daily-notes/2026-04-10.md",
-    "homePage.md",
     "graphify-out/GRAPH_REPORT.md",
-    "10-work/任务看板.md",
     "50-creative/daily-notes/日记汇总.md",
-    "CLAUDE.md",
     "graphify-out/2026-11-18/GRAPH_REPORT.md",
     "graphify-out/cache/last_query_stamp",
     "graphify-out/graph.html",
@@ -243,29 +275,12 @@
     "graphify-out/2026-11-18/cost.json",
     "graphify-out/2026-11-18",
     "graphify-out/cost.json",
-    "graphify-out/manifest.json",
-    "graphify-out/graph.json",
-    "graphify-out/cache/semantic/p509e90a58c56/e39ed86ecf793a8febdc8e0615ddc3effcbb25a62376d5b05aea658c7cf0313f.json",
     "20-knowledge/references/专题学习.md",
     "20-knowledge/reading-notes/摘录.md",
     "20-knowledge/reading-notes/read.md",
     "20-knowledge/reading-notes/《ClaudeCode代码设计指南》.md",
-    "20-knowledge/articles/Lofi'Log 低保真日志.md",
-    "20-knowledge/articles/博客汇总.md",
-    "50-creative/daily-notes/2026-11-18.md",
-    "30-assets/templates/日记模板.md",
-    "50-creative/daily-notes/2026-07-13.md",
-    "50-creative/daily-notes/2026-08-10.md",
     "30-assets/img/Pasted image 20260410160352.png",
     "30-assets/img/Pasted image 20260410160342.png",
-    "20-knowledge/references/Anthropic官方文档内容.md",
-    "20-knowledge/references/Anthropic learn.md",
-    "20-knowledge/references/Anthropic Courses.md",
-    "20-knowledge/references/Anthropic API文档.md",
-    "20-knowledge/references/AI日常使用记录.md",
-    "CLAUDE.md.md",
-    "00-inbox/01-Obsidian + AI 知识库使用指南.md",
-    "Clippings/01-Obsidian + AI 知识库使用指南.md",
     "30-assets/img/Pasted image 20260623113147.png",
     "30-assets/img/Pasted image 20260623111823.png",
     "30-assets/img/Pasted image 20260623110905.png",
