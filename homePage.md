@@ -1,7 +1,7 @@
 ---
 title: "Home Page"
 created: 2026-11-19 11:58:24
-updated: 2026-11-19 11:58:24
+updated: 2026-11-19 14:44:39
 type: dashboard
 status: Final
 tags: [dashboard, moc]
@@ -41,7 +41,7 @@ for (const p of pages) {
 
 const tagCount = new Map();
 for (const p of pages) {
-  for (const t of p.file.tags ?? []) {
+  for (const t of [].concat(p.file.frontmatter?.tags ?? [])) {
     tagCount.set(t, (tagCount.get(t) ?? 0) + 1);
   }
 }
@@ -78,7 +78,7 @@ dv.container.innerHTML = `
     ${card("图谱社区", communities, "graphify")}
   </div>
   <div style="margin-top:10px;font-size:12px;color:var(--text-muted)">
-    高频标签：${topTags.map(([t, c]) => `<code>${t}</code> ×${c}`).join("　") || "暂无"}
+    文件级高频标签：${topTags.map(([t, c]) => `<code>${t}</code> ×${c}`).join("　") || "暂无"}
   </div>`;
 ```
 
@@ -147,7 +147,7 @@ SORT file.name DESC
 LIMIT 7
 ```
 
-## 标签分布
+## 文件级标签分布
 
 ```dataview
 TABLE length(rows) AS "笔记数"
@@ -156,7 +156,7 @@ WHERE file.name != "homePage" AND file.name != "CLAUDE"
   AND !contains(file.path, "workspace/")
   AND !contains(file.path, "graphify-out/")
   AND !contains(file.path, "30-assets/")
-FLATTEN file.tags AS tag
+FLATTEN file.frontmatter.tags AS tag
 GROUP BY tag
 SORT length(rows) DESC
 LIMIT 12
