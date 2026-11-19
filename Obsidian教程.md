@@ -39,6 +39,7 @@ tags: [reference]
 - **社区插件**：Dataview、Tasks、Canvas 这些后面几篇的主角，全是社区插件。
 
 
+- [ ] 总结文档 🔺 📅 2026-11-23
 
 ## 参考文档
 

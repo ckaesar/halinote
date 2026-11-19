@@ -60,7 +60,7 @@ tags: [daily-note]
 ```
 
 - `created` / `updated` 必填，格式 `YYYY-MM-DD HH:MM:SS`，精确到秒；大改时刷新 `updated`。
-- `type` 取值：`daily-note`、`meeting-note`、`report`、`reference`、`reading-note`、`article`、`moc`、`pattern`。
+- `type` 取值：`daily-note`、`meeting-note`、`report`、`reference`、`reading-note`、`article`、`moc`、`pattern`、`dashboard`。
 - `status` 取值：`Draft → Todo → Doing → Done`；定稿用 `Final`；过时但有参考价值用 `Deprecated`。统一 PascalCase。
 - 每日笔记额外写 `date: YYYY-MM-DD`。
 - 字段名用 camelCase：`sourceUrl`、`notionUrl`，避免下划线与连字符和工具冲突。
@@ -111,3 +111,4 @@ tags: [daily-note]
 - 规则来源：[Obsidian 知识库目录结构设计](https://vault.xindoo.xyz/s/14qfgKA6SgodQcVRTFfwu0vBvDXjJljG/02-Obsidian%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1)
 - 相关笔记：[[Obsidian教程]]
 - 结构变更时同步更新本文件；同一规则只在这里写全，其他笔记只引用。
+
